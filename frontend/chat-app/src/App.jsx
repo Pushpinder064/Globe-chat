@@ -73,9 +73,8 @@ function App() {
   return (
     <>
       <h1 style={{ textAlign: 'center', color: '#2c3e50', fontFamily: 'Arial, sans-serif' }}>
-        Welcome to Globe Chat, {username}
+        Welcome to Globe message service, {username}
       </h1>
-
       <div style={{
         border: '3px solid #3498db',
         borderRadius: '10px',
